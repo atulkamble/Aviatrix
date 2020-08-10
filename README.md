@@ -1,5 +1,6 @@
 # Aviatrix ACE (Aviatrix Certified Engineer) Multi-Cloud Networking Associate Exam Notes
 Aviatrix ACE Exam Study Notes: https://atulkamble.github.io/Aviatrix/
+Acclaim Badge: https://www.youracclaim.com/org/aviatrix/badge/aviatrix-certified-engineer-multi-cloud-network-associate
 
 Author Profile:
 - LinkedIn: https://www.linkedin.com/in/atuljkamble 
