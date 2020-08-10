@@ -1,4 +1,4 @@
-## Aviatrix ACE (Aviatrix Certified Engineer) Multi-Cloud Networking Associate Exam Notes
+## Aviatrix ACE (Aviatrix Certified Engineer) Multi-Cloud Networking Associate Exam Study Notes
 
 ### Aviatrix
 Aviatrix Systems is a software company headquartered in Santa Clara, California, the heart of Silicon Valley. Aviatrix software provides a platform for companies to build networking and security infrastructure in the public cloud. The platform provides architecture applicable to both single and multiple public cloud deployments. Currently, the software supports public clouds such as AWS, Azure, GCP, and OCI.
