@@ -6,7 +6,7 @@ The ACE certification is designed for individuals who already understand basic n
 2. Understanding of multi-cloud network architecture and design considerations. 
 3. Proficiency to build use cases and deploy multi-cloud networks using Aviatrix software.
 
-# Following Sources will help you to study and crack Aviatrix ACE (Aviatrix Certified Engineer) Multi-Cloud Networking Associate Exam
+# Following sources will help you to study and crack Aviatrix ACE (Aviatrix Certified Engineer) Multi-Cloud Networking Associate Exam
 
 - Aviatrix ACE Exam Study Notes: https://atulkamble.github.io/Aviatrix/
 - Aviatrix Certified Engineer (ACE) Multi-Cloud Networking & Security Course : https://aviatrix.teachable.com/
