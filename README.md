@@ -12,6 +12,8 @@ The ACE certification is designed for individuals who already understand basic n
 - [Aviatrix ACE Official Course](https://aviatrix.teachable.com/)
 - [Aviatrix Docs](https://docs.aviatrix.com/)
 - [Aviatrix Cloud Network Learning Center](https://a.aviatrix.com/learning/)
+- [Aviatrix Questions and Answers](https://a.aviatrix.com/answers/)
+- [Aviatrix Bolgs](https://aviatrix.com/aviatrix-blog/)
 - [Acclaim Badge](https://www.youracclaim.com/org/aviatrix/badge/aviatrix-certified-engineer-multi-cloud-network-associate)
 - [Aviatrix Community](https://community.aviatrix.com/)
 
